@@ -1,4 +1,4 @@
-#!/usr/bin/env python33
+/*Owner & Copyrights: Vance King Saxbe. A.*/#!/usr/bin/env python33
 
 import urllib3
 import string
@@ -47,3 +47,4 @@ class yahoofinancequote:
                 count = count+1
             return contents
 
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/
